@@ -1,2 +1,3 @@
 # 36kyo.github.io
-about me
+My homepage.  
+https://36kyo.github.io/
