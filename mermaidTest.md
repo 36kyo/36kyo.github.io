@@ -7,8 +7,8 @@ sequenceDiagram
   actor me
   participant hoge
   
-  me -->+ hoge : hello
-  hoge -->- me : bye
+  me ->> hoge : hello
+  hoge ->> me : bye
 ```
 
 ```mermaid
@@ -16,6 +16,6 @@ sequenceDiagram
   actor me
   participant hoge
   
-  me --> hoge : hello
-  hoge --> me : bye
+  me ->> hoge : hello
+  hoge ->> me : bye
 ```
